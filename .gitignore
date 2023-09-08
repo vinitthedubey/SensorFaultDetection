@@ -1,2 +1,9 @@
 env
 SensorFaultDetection.egg-info
+artifacts/
+prediction_artifacts/
+predictions/
+logs/
+notebooks/
+LICENSE
+README.md
